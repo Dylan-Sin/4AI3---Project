@@ -1,6 +1,9 @@
 # 4AI3---Project
 Final project code for 4AI3 
 
+## Dataset
+The dataset used for this project can be found here
+https://www.kaggle.com/datasets/uciml/aps-failure-at-scania-trucks-data-set/data
 
 ## References
 https://www.kaggle.com/code/aayushsin7a/scania-aps-failure-prediction/notebook 
